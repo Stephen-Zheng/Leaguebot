@@ -1,0 +1,7 @@
+discord.py==2.3.2 # Or latest compatible version
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3 # Parser for BeautifulSoup
+asyncpg==0.28.0 # Or latest compatible version
+aiohttp==3.8.6 # For async HTTP requests
+python-dotenv==1.0.0 # Good practice for local dev, Replit uses Secrets UI
